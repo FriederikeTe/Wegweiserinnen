@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Wegweiserinnen/static/css/main.3a9475f4.css",
+    "main.js": "/Wegweiserinnen/static/js/main.37dfd849.js",
+    "static/js/453.af2b651e.chunk.js": "/Wegweiserinnen/static/js/453.af2b651e.chunk.js",
+    "index.html": "/Wegweiserinnen/index.html",
+    "main.3a9475f4.css.map": "/Wegweiserinnen/static/css/main.3a9475f4.css.map",
+    "main.37dfd849.js.map": "/Wegweiserinnen/static/js/main.37dfd849.js.map",
+    "453.af2b651e.chunk.js.map": "/Wegweiserinnen/static/js/453.af2b651e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a9475f4.css",
+    "static/js/main.37dfd849.js"
+  ]
+}
